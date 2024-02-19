@@ -1,4 +1,4 @@
-class cal
+class Simple_cal
 {
     public float add(int a, int b)
     {
