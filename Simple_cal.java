@@ -16,9 +16,6 @@ class cal
     {
         return a / b;
     }
-}
-class Simple_cal
-{
     public static void main(String args[])
     {
         cal c = new cal();
