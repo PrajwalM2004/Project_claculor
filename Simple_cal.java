@@ -18,7 +18,7 @@ class Simple_cal
     }
     public static void main(String args[])
     {
-        cal c = new cal();
+        Simple_cal c = new Simple_cal();
         System.out.println("Addition of two numbers"+c.add(10,20));
         System.out.println("Difference of two numbers"+c.sub(10,20));
         System.out.println("Product of two numbers"+c.mul(10,20));
